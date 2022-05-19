@@ -16,6 +16,8 @@ a assistente virtual do sexo
 
 "Obrigado"
 
+"Me conte uma piada"
+
 "Quem é o CEO do sexo?"
 
 "Quando será lançado Sexo 2?"
