@@ -12,7 +12,7 @@ a assistente virtual do sexo
 
 "Qual é minha versão atual?"
 
-"Bom dia"
+"Bom dia, SexIA"
 
 "Obrigado"
 
