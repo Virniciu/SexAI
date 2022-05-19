@@ -10,7 +10,7 @@ a assistente virtual do sexo
 
 "Contatar SexPorte"
 
-"Versão"
+"Qual é minha versão atual?"
 
 "Bom dia"
 
