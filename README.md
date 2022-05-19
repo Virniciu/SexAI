@@ -1,7 +1,7 @@
-# SexAI
-A assistente virtual do sexo
+# SexAI,
+a assistente virtual do sexo
 
-Comandos disponíveis:
+### Comandos disponíveis:
 
 ```
 "Sair"
