@@ -6,7 +6,7 @@ a assistente virtual do sexo
 ```
 "Sair"
 
-"Ajuda"
+"Preciso de ajuda"
 
 "Contatar SexPorte"
 
