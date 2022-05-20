@@ -5,7 +5,7 @@ a assistente virtual do sexo
 
 ### Para windows
 
-<a href=https://github.com/Virniciu/SexAI/releases/download/SexAI.exe/latest><img id="im" src=https://user-images.githubusercontent.com/80495420/169607545-1471686b-93ee-4181-ae8c-39606e267a96.png></a>
+<a href=https://github.com/Virniciu/SexAI/releases/latest/download/SexAI.exe><img id="im" src=https://user-images.githubusercontent.com/80495420/169607545-1471686b-93ee-4181-ae8c-39606e267a96.png></a>
 
 ### Para Linux
 
