@@ -1,7 +1,14 @@
 # SexAI,
 a assistente virtual do sexo
 
-### Instalação
+## Instalação:
+
+### Para windows
+
+<a href=https://github.com/Virniciu/SexAI/releases/download/SexAI.exe/latest><img id="im" src=https://user-images.githubusercontent.com/80495420/169607545-1471686b-93ee-4181-ae8c-39606e267a96.png></a>
+
+### Para Linux
+
 1: [Baixe o Python](https://www.python.org/downloads/)
 
 2: [Baixe a última versão da SexAI](https://github.com/Virniciu/SexAI/releases/latest)
@@ -41,4 +48,8 @@ python sexai.py
 "Qual é a definição de bissexual?"
 
 "Qual é a definição de heterossexual?"
+
+"Como conseguir uma namorada?"
+
+"Como conquistar uma casada?"
 ```
