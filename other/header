@@ -4,6 +4,6 @@
 ### SexAI, a assistente virtual do sexo ###
 ###########################################
 
-import readline,random
+import random
 
-ver = "0.1.1"
+ver = "0.1.2"
