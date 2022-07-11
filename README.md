@@ -13,9 +13,9 @@ Se você usa Windows, clique na imagem abaixo para fazer o download da última v
 
 Se você usa Linux, abra um terminal e rode o seguinte comando:
 ```
-git clone https://github.com/Virniciu/SexAI && cd SexAI && pip3 install -r requirements.txt && python3 main.py
+git clone https://github.com/Virniciu/SexAI && cd SexAI && python3 main.py
 ```
-###### *Note que para o comando ser bem sucedido, você precisa ter git, pip3 e python3 instalados.*
+###### *Note que para o comando ser bem sucedido, você precisa ter git e python3 instalados.*
 
 ## Comandos disponíveis:
 
