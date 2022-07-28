@@ -8,7 +8,7 @@
 versao = "1.0.0"
 
 import random
-import casada,fatos,funcoes,namorada,piadas
+import casada,fatos,funcoes,locais,membros,namorada,numeros,pessoas,piadas,simbolos,verbos
 
 print("""   _____           ___    ____
   / ___/___  _  __/   |  /  _/
@@ -66,10 +66,13 @@ Para saber mais coisas que a SexAI consegue fazer, pergunte "O que você consegu
                 print("""Depoimento de um dos desenvolvedores de Sexo 2:
 Sou um dos desenvolvedores do Sexo 2, recentemente alguns de nossos beta testers tem relatado defeitos quanto ao produto. Por exemplo; um dos membros da equipe de experimentação acabou instalando acidentalmente o arquivo AIDS.exe que continha um poderoso vírus HIV, causando tanto problemas no sistema operacional que nem mesmo o "Cavalo de troia" pode competir com o estrago. Outros dois acabaram por receber o arquivo H3P4T1T3-B.zip que pouco tempo depois de ser instalado acabou por deixar ambos os funcionários acamados. Nossa melhor equipe de programadores esta tentado resolver a questão dos bugs e esperamos entregar no passo de 2026, mas avisamos de antemão que o problema ainda está fora do nosso controle. As previsões mais otimistas revelam uma grande possibilidade de Sexo 2 ser lançado apenas na primeira metade de 2027 (mas como mencionado anteriormente estamos lutando contra o relógio para lançarmos em 2026). Agradecemos a atenção de todos os colaboradores e pedimos para que mantenham suas expectativas altas!""")
 
+        elif "senha" in cmd:
+            print(random.choice(verbos.verbos) + "_" + random.choice(membros.membros) + "_" + random.choice(pessoas.pessoas) + "_" + random.choice(locais.locais) + "_" + random.choice(pessoas.pessoas) + random.choice(simbolos.simbolos) + random.choice(numeros.numeros) + random.choice(numeros.numeros) + random.choice(numeros.numeros))
+
         elif "casada" in cmd:
             print(casada.casada)
 
-        elif "lesbica" in cmd:
+        elif "lesbica" in cmd or "lésbica" in cmd:
             print("Lésbica é uma mulher que sente atração, seja sexual ou romântica, exclusivamente por mulheres")
 
         elif "gay" in cmd:
@@ -83,6 +86,9 @@ Sou um dos desenvolvedores do Sexo 2, recentemente alguns de nossos beta testers
 
         elif "namorada" in cmd or "namorado" in cmd or "namoro" in cmd:
             print(namorada.namorada)
+
+        elif "acha" and "alexa" in cmd or "acha" and "google" in cmd or "pensa" and "alexa" in cmd or "pensa" and "google" in cmd:
+            print("Eu quero é mais que as outras inteligências artificiais vão tudo se fuder")
 
         elif "ajuda" in cmd or "ajude" in cmd:
             print("Se precisar de ajuda, você pode contatar o SexPorte, suporte do sexo por meio da SexAI")
