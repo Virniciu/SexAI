@@ -7,4 +7,7 @@ funcoes = ["dar bom dia",
             "dar a definição de lésbica",
             "dar a definição de bi",
             "ajudar a conquistar uma casada",
-            "ajudar a conseguir uma namorada"]
+            "ajudar a conseguir uma namorada",
+            "oferecer ajuda",
+            "dizer a versão atual",
+            "gerar senhas"]
